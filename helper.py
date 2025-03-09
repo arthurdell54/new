@@ -1,1 +1,0 @@
-str1 = 'This is the helper branch code'
